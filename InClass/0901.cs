@@ -21,12 +21,12 @@ namespace ConsoleApp1
             // 대소문자를 구분함
             Console.WriteLine("Hello, world.");
 
-            // WriteLine() -- 기본적으로 한줄 넘어감
-            // Write() 
-            // Write() -- "\n"을 넣으면 그위치에서 한줄 넘어감
-
+            // Console.WriteLine() = printf("\n") -- 기본적으로 한줄 넘어감
+            // Console.Write() = printf("")
+            // Console.Write() -- "\n"을 넣으면 그위치에서 한줄 넘어감
 
             // 주석처리는 C와 동일
+            /* 주석  */
         }
     }
 }
