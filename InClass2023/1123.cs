@@ -2,36 +2,6 @@
 
 namespace ConsoleApp3
 {
-    //(1) 클래스 밖에 클래스를 선언
-    class Student
-    {
-        // 변수 선언 
-        // 접근권한자 : 
-        // public (외부에서 접근할 수 있게 권한을 열어줌)
-        // private (외부에서 접근할 수 없게 막아줌)
-        public int grade;  // 학년
-        public int stNumber; // 학번
-        // 아무말안함
-        public string gender; // 성별
-        public string stName;  // 이름, 키, 몸무게, 시력, 대학소속, 가족관계, 부모 ...
-        public float height;  // 키
-        public float weight;  // 몸무게
-        public float lVision; // 시력
-        public float rVision; // 시력
-        public float[] vision = { 0.0f, 0.0f }; // 시력
-        public string belong;// 대학소속 ....
-        public int age; // 나이
-        public DateTime bDay;  // 생년월일
-
-    }
-
-    class Product
-    {
-        public string pName;  // 제품명 (외부에서도 접근할 수 있게 풀어줌)
-        public int pPrice;   // 가격
-        private string pCompany;  // 제조사 (나만 쓸수있게 = 외부에서 접근하지 못하게)
-    }
-
     // 클래수 선언 방법
     //class 클래스명 { .. }
     class MyMath
@@ -68,13 +38,12 @@ namespace ConsoleApp3
         }
 
         // 곱 구하기
-        // 테스트 (public -> private)
-        private int Multiply(int a, int b)
+        // 테스트(#1) (public -> private)
+        public int Multiply(int a, int b)
         {
             return (a * b);
         }
     }
-
 
 
     // 이름이 Program 인 클래스를 선언
@@ -93,13 +62,11 @@ namespace ConsoleApp3
             obj.Absol(-100);
 
             // 10*20 을 계산해서 출력해보세요
+            // 테스트(#1)에서 접근권한자를 private로 바꿀 경우, 외부에서 접근이 안되기 때문에 여기에서 오류 발생
+            // 다시 public로 바꾸라
             res = obj.Multiply(10, 20);
 
         }
     }
-
-
-    // 숙제
-    // 
 
 }
