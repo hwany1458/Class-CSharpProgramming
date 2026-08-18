@@ -1,0 +1,14 @@
+D:\C# 3판\02_원고개발\04_완전원고\source\10장\TryCatchFinallyBasic\TryCatchFinallyBasic\bin\Debug\net8.0\TryCatchFinallyBasic.exe
+D:\C# 3판\02_원고개발\04_완전원고\source\10장\TryCatchFinallyBasic\TryCatchFinallyBasic\bin\Debug\net8.0\TryCatchFinallyBasic.deps.json
+D:\C# 3판\02_원고개발\04_완전원고\source\10장\TryCatchFinallyBasic\TryCatchFinallyBasic\bin\Debug\net8.0\TryCatchFinallyBasic.runtimeconfig.json
+D:\C# 3판\02_원고개발\04_완전원고\source\10장\TryCatchFinallyBasic\TryCatchFinallyBasic\bin\Debug\net8.0\TryCatchFinallyBasic.dll
+D:\C# 3판\02_원고개발\04_완전원고\source\10장\TryCatchFinallyBasic\TryCatchFinallyBasic\bin\Debug\net8.0\TryCatchFinallyBasic.pdb
+D:\C# 3판\02_원고개발\04_완전원고\source\10장\TryCatchFinallyBasic\TryCatchFinallyBasic\obj\Debug\net8.0\TryCatchFinallyBasic.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# 3판\02_원고개발\04_완전원고\source\10장\TryCatchFinallyBasic\TryCatchFinallyBasic\obj\Debug\net8.0\TryCatchFinallyBasic.AssemblyInfoInputs.cache
+D:\C# 3판\02_원고개발\04_완전원고\source\10장\TryCatchFinallyBasic\TryCatchFinallyBasic\obj\Debug\net8.0\TryCatchFinallyBasic.AssemblyInfo.cs
+D:\C# 3판\02_원고개발\04_완전원고\source\10장\TryCatchFinallyBasic\TryCatchFinallyBasic\obj\Debug\net8.0\TryCatchFinallyBasic.csproj.CoreCompileInputs.cache
+D:\C# 3판\02_원고개발\04_완전원고\source\10장\TryCatchFinallyBasic\TryCatchFinallyBasic\obj\Debug\net8.0\TryCatchFinallyBasic.dll
+D:\C# 3판\02_원고개발\04_완전원고\source\10장\TryCatchFinallyBasic\TryCatchFinallyBasic\obj\Debug\net8.0\refint\TryCatchFinallyBasic.dll
+D:\C# 3판\02_원고개발\04_완전원고\source\10장\TryCatchFinallyBasic\TryCatchFinallyBasic\obj\Debug\net8.0\TryCatchFinallyBasic.pdb
+D:\C# 3판\02_원고개발\04_완전원고\source\10장\TryCatchFinallyBasic\TryCatchFinallyBasic\obj\Debug\net8.0\TryCatchFinallyBasic.genruntimeconfig.cache
+D:\C# 3판\02_원고개발\04_완전원고\source\10장\TryCatchFinallyBasic\TryCatchFinallyBasic\obj\Debug\net8.0\ref\TryCatchFinallyBasic.dll

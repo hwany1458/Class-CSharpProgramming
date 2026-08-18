@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C# 3\uD310\\02_\uC6D0\uACE0\uAC1C\uBC1C\\04_\uC644\uC804\uC6D0\uACE0\\source\\3\uC7A5\\Conditions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0881FC60-BAB0-4F4C-9948-90630157BE7B}|Conditions\\Conditions.csproj|d:\\c# 3\uD310\\02_\uC6D0\uACE0\uAC1C\uBC1C\\04_\uC644\uC804\uC6D0\uACE0\\source\\3\uC7A5\\conditions\\conditions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0881FC60-BAB0-4F4C-9948-90630157BE7B}|Conditions\\Conditions.csproj|solutionrelative:conditions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C# 3\uD310\\02_\uC6D0\uACE0\uAC1C\uBC1C\\04_\uC644\uC804\uC6D0\uACE0\\source\\3\uC7A5\\Conditions\\Conditions\\Program.cs",
+              "RelativeDocumentMoniker": "Conditions\\Program.cs",
+              "ToolTip": "D:\\C# 3\uD310\\02_\uC6D0\uACE0\uAC1C\uBC1C\\04_\uC644\uC804\uC6D0\uACE0\\source\\3\uC7A5\\Conditions\\Conditions\\Program.cs",
+              "RelativeToolTip": "Conditions\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T09:00:05.039Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+D:\C# 3판\02_원고개발\04_완전원고\source\9장\GroupBoxForm\GroupBoxForm\bin\Debug\net8.0-windows\GroupBoxForm.exe
+D:\C# 3판\02_원고개발\04_완전원고\source\9장\GroupBoxForm\GroupBoxForm\bin\Debug\net8.0-windows\GroupBoxForm.deps.json
+D:\C# 3판\02_원고개발\04_완전원고\source\9장\GroupBoxForm\GroupBoxForm\bin\Debug\net8.0-windows\GroupBoxForm.runtimeconfig.json
+D:\C# 3판\02_원고개발\04_완전원고\source\9장\GroupBoxForm\GroupBoxForm\bin\Debug\net8.0-windows\GroupBoxForm.dll
+D:\C# 3판\02_원고개발\04_완전원고\source\9장\GroupBoxForm\GroupBoxForm\bin\Debug\net8.0-windows\GroupBoxForm.pdb
+D:\C# 3판\02_원고개발\04_완전원고\source\9장\GroupBoxForm\GroupBoxForm\obj\Debug\net8.0-windows\GroupBoxForm.Form1.resources
+D:\C# 3판\02_원고개발\04_완전원고\source\9장\GroupBoxForm\GroupBoxForm\obj\Debug\net8.0-windows\GroupBoxForm.csproj.GenerateResource.cache
+D:\C# 3판\02_원고개발\04_완전원고\source\9장\GroupBoxForm\GroupBoxForm\obj\Debug\net8.0-windows\GroupBoxForm.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# 3판\02_원고개발\04_완전원고\source\9장\GroupBoxForm\GroupBoxForm\obj\Debug\net8.0-windows\GroupBoxForm.AssemblyInfoInputs.cache
+D:\C# 3판\02_원고개발\04_완전원고\source\9장\GroupBoxForm\GroupBoxForm\obj\Debug\net8.0-windows\GroupBoxForm.AssemblyInfo.cs
+D:\C# 3판\02_원고개발\04_완전원고\source\9장\GroupBoxForm\GroupBoxForm\obj\Debug\net8.0-windows\GroupBoxForm.csproj.CoreCompileInputs.cache
+D:\C# 3판\02_원고개발\04_완전원고\source\9장\GroupBoxForm\GroupBoxForm\obj\Debug\net8.0-windows\GroupBoxForm.dll
+D:\C# 3판\02_원고개발\04_완전원고\source\9장\GroupBoxForm\GroupBoxForm\obj\Debug\net8.0-windows\refint\GroupBoxForm.dll
+D:\C# 3판\02_원고개발\04_완전원고\source\9장\GroupBoxForm\GroupBoxForm\obj\Debug\net8.0-windows\GroupBoxForm.pdb
+D:\C# 3판\02_원고개발\04_완전원고\source\9장\GroupBoxForm\GroupBoxForm\obj\Debug\net8.0-windows\GroupBoxForm.genruntimeconfig.cache
+D:\C# 3판\02_원고개발\04_완전원고\source\9장\GroupBoxForm\GroupBoxForm\obj\Debug\net8.0-windows\ref\GroupBoxForm.dll

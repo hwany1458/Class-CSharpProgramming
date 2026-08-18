@@ -1,0 +1,14 @@
+D:\C# 3판\02_원고개발\04_완전원고\source\8장\Structures\Structures\bin\Debug\net8.0\Structures.exe
+D:\C# 3판\02_원고개발\04_완전원고\source\8장\Structures\Structures\bin\Debug\net8.0\Structures.deps.json
+D:\C# 3판\02_원고개발\04_완전원고\source\8장\Structures\Structures\bin\Debug\net8.0\Structures.runtimeconfig.json
+D:\C# 3판\02_원고개발\04_완전원고\source\8장\Structures\Structures\bin\Debug\net8.0\Structures.dll
+D:\C# 3판\02_원고개발\04_완전원고\source\8장\Structures\Structures\bin\Debug\net8.0\Structures.pdb
+D:\C# 3판\02_원고개발\04_완전원고\source\8장\Structures\Structures\obj\Debug\net8.0\Structures.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# 3판\02_원고개발\04_완전원고\source\8장\Structures\Structures\obj\Debug\net8.0\Structures.AssemblyInfoInputs.cache
+D:\C# 3판\02_원고개발\04_완전원고\source\8장\Structures\Structures\obj\Debug\net8.0\Structures.AssemblyInfo.cs
+D:\C# 3판\02_원고개발\04_완전원고\source\8장\Structures\Structures\obj\Debug\net8.0\Structures.csproj.CoreCompileInputs.cache
+D:\C# 3판\02_원고개발\04_완전원고\source\8장\Structures\Structures\obj\Debug\net8.0\Structures.dll
+D:\C# 3판\02_원고개발\04_완전원고\source\8장\Structures\Structures\obj\Debug\net8.0\refint\Structures.dll
+D:\C# 3판\02_원고개발\04_완전원고\source\8장\Structures\Structures\obj\Debug\net8.0\Structures.pdb
+D:\C# 3판\02_원고개발\04_완전원고\source\8장\Structures\Structures\obj\Debug\net8.0\Structures.genruntimeconfig.cache
+D:\C# 3판\02_원고개발\04_완전원고\source\8장\Structures\Structures\obj\Debug\net8.0\ref\Structures.dll

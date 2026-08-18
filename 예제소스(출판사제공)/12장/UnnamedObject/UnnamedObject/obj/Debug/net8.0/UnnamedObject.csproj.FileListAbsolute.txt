@@ -1,0 +1,14 @@
+D:\C# 3판\02_원고개발\04_완전원고\source\12장\UnnamedObject\UnnamedObject\bin\Debug\net8.0\UnnamedObject.exe
+D:\C# 3판\02_원고개발\04_완전원고\source\12장\UnnamedObject\UnnamedObject\bin\Debug\net8.0\UnnamedObject.deps.json
+D:\C# 3판\02_원고개발\04_완전원고\source\12장\UnnamedObject\UnnamedObject\bin\Debug\net8.0\UnnamedObject.runtimeconfig.json
+D:\C# 3판\02_원고개발\04_완전원고\source\12장\UnnamedObject\UnnamedObject\bin\Debug\net8.0\UnnamedObject.dll
+D:\C# 3판\02_원고개발\04_완전원고\source\12장\UnnamedObject\UnnamedObject\bin\Debug\net8.0\UnnamedObject.pdb
+D:\C# 3판\02_원고개발\04_완전원고\source\12장\UnnamedObject\UnnamedObject\obj\Debug\net8.0\UnnamedObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# 3판\02_원고개발\04_완전원고\source\12장\UnnamedObject\UnnamedObject\obj\Debug\net8.0\UnnamedObject.AssemblyInfoInputs.cache
+D:\C# 3판\02_원고개발\04_완전원고\source\12장\UnnamedObject\UnnamedObject\obj\Debug\net8.0\UnnamedObject.AssemblyInfo.cs
+D:\C# 3판\02_원고개발\04_완전원고\source\12장\UnnamedObject\UnnamedObject\obj\Debug\net8.0\UnnamedObject.csproj.CoreCompileInputs.cache
+D:\C# 3판\02_원고개발\04_완전원고\source\12장\UnnamedObject\UnnamedObject\obj\Debug\net8.0\UnnamedObject.dll
+D:\C# 3판\02_원고개발\04_완전원고\source\12장\UnnamedObject\UnnamedObject\obj\Debug\net8.0\refint\UnnamedObject.dll
+D:\C# 3판\02_원고개발\04_완전원고\source\12장\UnnamedObject\UnnamedObject\obj\Debug\net8.0\UnnamedObject.pdb
+D:\C# 3판\02_원고개발\04_완전원고\source\12장\UnnamedObject\UnnamedObject\obj\Debug\net8.0\UnnamedObject.genruntimeconfig.cache
+D:\C# 3판\02_원고개발\04_완전원고\source\12장\UnnamedObject\UnnamedObject\obj\Debug\net8.0\ref\UnnamedObject.dll

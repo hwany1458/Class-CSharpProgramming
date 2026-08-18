@@ -1,0 +1,14 @@
+D:\C# 3판\02_원고개발\04_완전원고\source\4장\MovingAt\MovingAt\bin\Debug\net8.0\MovingAt.exe
+D:\C# 3판\02_원고개발\04_완전원고\source\4장\MovingAt\MovingAt\bin\Debug\net8.0\MovingAt.deps.json
+D:\C# 3판\02_원고개발\04_완전원고\source\4장\MovingAt\MovingAt\bin\Debug\net8.0\MovingAt.runtimeconfig.json
+D:\C# 3판\02_원고개발\04_완전원고\source\4장\MovingAt\MovingAt\bin\Debug\net8.0\MovingAt.dll
+D:\C# 3판\02_원고개발\04_완전원고\source\4장\MovingAt\MovingAt\bin\Debug\net8.0\MovingAt.pdb
+D:\C# 3판\02_원고개발\04_완전원고\source\4장\MovingAt\MovingAt\obj\Debug\net8.0\MovingAt.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# 3판\02_원고개발\04_완전원고\source\4장\MovingAt\MovingAt\obj\Debug\net8.0\MovingAt.AssemblyInfoInputs.cache
+D:\C# 3판\02_원고개발\04_완전원고\source\4장\MovingAt\MovingAt\obj\Debug\net8.0\MovingAt.AssemblyInfo.cs
+D:\C# 3판\02_원고개발\04_완전원고\source\4장\MovingAt\MovingAt\obj\Debug\net8.0\MovingAt.csproj.CoreCompileInputs.cache
+D:\C# 3판\02_원고개발\04_완전원고\source\4장\MovingAt\MovingAt\obj\Debug\net8.0\MovingAt.dll
+D:\C# 3판\02_원고개발\04_완전원고\source\4장\MovingAt\MovingAt\obj\Debug\net8.0\refint\MovingAt.dll
+D:\C# 3판\02_원고개발\04_완전원고\source\4장\MovingAt\MovingAt\obj\Debug\net8.0\MovingAt.pdb
+D:\C# 3판\02_원고개발\04_완전원고\source\4장\MovingAt\MovingAt\obj\Debug\net8.0\MovingAt.genruntimeconfig.cache
+D:\C# 3판\02_원고개발\04_완전원고\source\4장\MovingAt\MovingAt\obj\Debug\net8.0\ref\MovingAt.dll

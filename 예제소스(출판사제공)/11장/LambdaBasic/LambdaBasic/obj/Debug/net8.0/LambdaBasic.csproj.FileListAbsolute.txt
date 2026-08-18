@@ -1,0 +1,14 @@
+D:\C# 3판\02_원고개발\04_완전원고\source\11장\LambdaBasic\LambdaBasic\bin\Debug\net8.0\LambdaBasic.exe
+D:\C# 3판\02_원고개발\04_완전원고\source\11장\LambdaBasic\LambdaBasic\bin\Debug\net8.0\LambdaBasic.deps.json
+D:\C# 3판\02_원고개발\04_완전원고\source\11장\LambdaBasic\LambdaBasic\bin\Debug\net8.0\LambdaBasic.runtimeconfig.json
+D:\C# 3판\02_원고개발\04_완전원고\source\11장\LambdaBasic\LambdaBasic\bin\Debug\net8.0\LambdaBasic.dll
+D:\C# 3판\02_원고개발\04_완전원고\source\11장\LambdaBasic\LambdaBasic\bin\Debug\net8.0\LambdaBasic.pdb
+D:\C# 3판\02_원고개발\04_완전원고\source\11장\LambdaBasic\LambdaBasic\obj\Debug\net8.0\LambdaBasic.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# 3판\02_원고개발\04_완전원고\source\11장\LambdaBasic\LambdaBasic\obj\Debug\net8.0\LambdaBasic.AssemblyInfoInputs.cache
+D:\C# 3판\02_원고개발\04_완전원고\source\11장\LambdaBasic\LambdaBasic\obj\Debug\net8.0\LambdaBasic.AssemblyInfo.cs
+D:\C# 3판\02_원고개발\04_완전원고\source\11장\LambdaBasic\LambdaBasic\obj\Debug\net8.0\LambdaBasic.csproj.CoreCompileInputs.cache
+D:\C# 3판\02_원고개발\04_완전원고\source\11장\LambdaBasic\LambdaBasic\obj\Debug\net8.0\LambdaBasic.dll
+D:\C# 3판\02_원고개발\04_완전원고\source\11장\LambdaBasic\LambdaBasic\obj\Debug\net8.0\refint\LambdaBasic.dll
+D:\C# 3판\02_원고개발\04_완전원고\source\11장\LambdaBasic\LambdaBasic\obj\Debug\net8.0\LambdaBasic.pdb
+D:\C# 3판\02_원고개발\04_완전원고\source\11장\LambdaBasic\LambdaBasic\obj\Debug\net8.0\LambdaBasic.genruntimeconfig.cache
+D:\C# 3판\02_원고개발\04_완전원고\source\11장\LambdaBasic\LambdaBasic\obj\Debug\net8.0\ref\LambdaBasic.dll

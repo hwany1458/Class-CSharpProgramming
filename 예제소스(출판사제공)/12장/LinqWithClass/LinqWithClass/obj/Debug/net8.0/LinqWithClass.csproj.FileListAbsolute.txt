@@ -1,0 +1,14 @@
+D:\C# 3판\02_원고개발\04_완전원고\source\12장\LinqWithClass\LinqWithClass\bin\Debug\net8.0\LinqWithClass.exe
+D:\C# 3판\02_원고개발\04_완전원고\source\12장\LinqWithClass\LinqWithClass\bin\Debug\net8.0\LinqWithClass.deps.json
+D:\C# 3판\02_원고개발\04_완전원고\source\12장\LinqWithClass\LinqWithClass\bin\Debug\net8.0\LinqWithClass.runtimeconfig.json
+D:\C# 3판\02_원고개발\04_완전원고\source\12장\LinqWithClass\LinqWithClass\bin\Debug\net8.0\LinqWithClass.dll
+D:\C# 3판\02_원고개발\04_완전원고\source\12장\LinqWithClass\LinqWithClass\bin\Debug\net8.0\LinqWithClass.pdb
+D:\C# 3판\02_원고개발\04_완전원고\source\12장\LinqWithClass\LinqWithClass\obj\Debug\net8.0\LinqWithClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# 3판\02_원고개발\04_완전원고\source\12장\LinqWithClass\LinqWithClass\obj\Debug\net8.0\LinqWithClass.AssemblyInfoInputs.cache
+D:\C# 3판\02_원고개발\04_완전원고\source\12장\LinqWithClass\LinqWithClass\obj\Debug\net8.0\LinqWithClass.AssemblyInfo.cs
+D:\C# 3판\02_원고개발\04_완전원고\source\12장\LinqWithClass\LinqWithClass\obj\Debug\net8.0\LinqWithClass.csproj.CoreCompileInputs.cache
+D:\C# 3판\02_원고개발\04_완전원고\source\12장\LinqWithClass\LinqWithClass\obj\Debug\net8.0\LinqWithClass.dll
+D:\C# 3판\02_원고개발\04_완전원고\source\12장\LinqWithClass\LinqWithClass\obj\Debug\net8.0\refint\LinqWithClass.dll
+D:\C# 3판\02_원고개발\04_완전원고\source\12장\LinqWithClass\LinqWithClass\obj\Debug\net8.0\LinqWithClass.pdb
+D:\C# 3판\02_원고개발\04_완전원고\source\12장\LinqWithClass\LinqWithClass\obj\Debug\net8.0\LinqWithClass.genruntimeconfig.cache
+D:\C# 3판\02_원고개발\04_완전원고\source\12장\LinqWithClass\LinqWithClass\obj\Debug\net8.0\ref\LinqWithClass.dll

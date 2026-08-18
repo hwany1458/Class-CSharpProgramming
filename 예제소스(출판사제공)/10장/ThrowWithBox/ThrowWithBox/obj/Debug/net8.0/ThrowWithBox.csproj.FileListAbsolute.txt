@@ -1,0 +1,14 @@
+D:\C# 3판\02_원고개발\04_완전원고\source\10장\ThrowWithBox\ThrowWithBox\bin\Debug\net8.0\ThrowWithBox.exe
+D:\C# 3판\02_원고개발\04_완전원고\source\10장\ThrowWithBox\ThrowWithBox\bin\Debug\net8.0\ThrowWithBox.deps.json
+D:\C# 3판\02_원고개발\04_완전원고\source\10장\ThrowWithBox\ThrowWithBox\bin\Debug\net8.0\ThrowWithBox.runtimeconfig.json
+D:\C# 3판\02_원고개발\04_완전원고\source\10장\ThrowWithBox\ThrowWithBox\bin\Debug\net8.0\ThrowWithBox.dll
+D:\C# 3판\02_원고개발\04_완전원고\source\10장\ThrowWithBox\ThrowWithBox\bin\Debug\net8.0\ThrowWithBox.pdb
+D:\C# 3판\02_원고개발\04_완전원고\source\10장\ThrowWithBox\ThrowWithBox\obj\Debug\net8.0\ThrowWithBox.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# 3판\02_원고개발\04_완전원고\source\10장\ThrowWithBox\ThrowWithBox\obj\Debug\net8.0\ThrowWithBox.AssemblyInfoInputs.cache
+D:\C# 3판\02_원고개발\04_완전원고\source\10장\ThrowWithBox\ThrowWithBox\obj\Debug\net8.0\ThrowWithBox.AssemblyInfo.cs
+D:\C# 3판\02_원고개발\04_완전원고\source\10장\ThrowWithBox\ThrowWithBox\obj\Debug\net8.0\ThrowWithBox.csproj.CoreCompileInputs.cache
+D:\C# 3판\02_원고개발\04_완전원고\source\10장\ThrowWithBox\ThrowWithBox\obj\Debug\net8.0\ThrowWithBox.dll
+D:\C# 3판\02_원고개발\04_완전원고\source\10장\ThrowWithBox\ThrowWithBox\obj\Debug\net8.0\refint\ThrowWithBox.dll
+D:\C# 3판\02_원고개발\04_완전원고\source\10장\ThrowWithBox\ThrowWithBox\obj\Debug\net8.0\ThrowWithBox.pdb
+D:\C# 3판\02_원고개발\04_완전원고\source\10장\ThrowWithBox\ThrowWithBox\obj\Debug\net8.0\ThrowWithBox.genruntimeconfig.cache
+D:\C# 3판\02_원고개발\04_완전원고\source\10장\ThrowWithBox\ThrowWithBox\obj\Debug\net8.0\ref\ThrowWithBox.dll

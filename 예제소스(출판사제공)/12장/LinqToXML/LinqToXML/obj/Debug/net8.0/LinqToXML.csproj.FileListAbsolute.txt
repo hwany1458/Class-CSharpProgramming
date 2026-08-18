@@ -1,0 +1,14 @@
+D:\C# 3판\02_원고개발\04_완전원고\source\12장\LinqToXML\LinqToXML\bin\Debug\net8.0\LinqToXML.exe
+D:\C# 3판\02_원고개발\04_완전원고\source\12장\LinqToXML\LinqToXML\bin\Debug\net8.0\LinqToXML.deps.json
+D:\C# 3판\02_원고개발\04_완전원고\source\12장\LinqToXML\LinqToXML\bin\Debug\net8.0\LinqToXML.runtimeconfig.json
+D:\C# 3판\02_원고개발\04_완전원고\source\12장\LinqToXML\LinqToXML\bin\Debug\net8.0\LinqToXML.dll
+D:\C# 3판\02_원고개발\04_완전원고\source\12장\LinqToXML\LinqToXML\bin\Debug\net8.0\LinqToXML.pdb
+D:\C# 3판\02_원고개발\04_완전원고\source\12장\LinqToXML\LinqToXML\obj\Debug\net8.0\LinqToXML.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# 3판\02_원고개발\04_완전원고\source\12장\LinqToXML\LinqToXML\obj\Debug\net8.0\LinqToXML.AssemblyInfoInputs.cache
+D:\C# 3판\02_원고개발\04_완전원고\source\12장\LinqToXML\LinqToXML\obj\Debug\net8.0\LinqToXML.AssemblyInfo.cs
+D:\C# 3판\02_원고개발\04_완전원고\source\12장\LinqToXML\LinqToXML\obj\Debug\net8.0\LinqToXML.csproj.CoreCompileInputs.cache
+D:\C# 3판\02_원고개발\04_완전원고\source\12장\LinqToXML\LinqToXML\obj\Debug\net8.0\LinqToXML.dll
+D:\C# 3판\02_원고개발\04_완전원고\source\12장\LinqToXML\LinqToXML\obj\Debug\net8.0\refint\LinqToXML.dll
+D:\C# 3판\02_원고개발\04_완전원고\source\12장\LinqToXML\LinqToXML\obj\Debug\net8.0\LinqToXML.pdb
+D:\C# 3판\02_원고개발\04_완전원고\source\12장\LinqToXML\LinqToXML\obj\Debug\net8.0\LinqToXML.genruntimeconfig.cache
+D:\C# 3판\02_원고개발\04_완전원고\source\12장\LinqToXML\LinqToXML\obj\Debug\net8.0\ref\LinqToXML.dll

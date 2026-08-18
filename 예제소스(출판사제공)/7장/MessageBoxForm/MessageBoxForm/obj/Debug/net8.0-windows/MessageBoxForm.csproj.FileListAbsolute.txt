@@ -1,0 +1,16 @@
+D:\C# 3판\02_원고개발\04_완전원고\source\7장\MessageBoxForm\MessageBoxForm\bin\Debug\net8.0-windows\MessageBoxForm.exe
+D:\C# 3판\02_원고개발\04_완전원고\source\7장\MessageBoxForm\MessageBoxForm\bin\Debug\net8.0-windows\MessageBoxForm.deps.json
+D:\C# 3판\02_원고개발\04_완전원고\source\7장\MessageBoxForm\MessageBoxForm\bin\Debug\net8.0-windows\MessageBoxForm.runtimeconfig.json
+D:\C# 3판\02_원고개발\04_완전원고\source\7장\MessageBoxForm\MessageBoxForm\bin\Debug\net8.0-windows\MessageBoxForm.dll
+D:\C# 3판\02_원고개발\04_완전원고\source\7장\MessageBoxForm\MessageBoxForm\bin\Debug\net8.0-windows\MessageBoxForm.pdb
+D:\C# 3판\02_원고개발\04_완전원고\source\7장\MessageBoxForm\MessageBoxForm\obj\Debug\net8.0-windows\MessageBoxForm.Form1.resources
+D:\C# 3판\02_원고개발\04_완전원고\source\7장\MessageBoxForm\MessageBoxForm\obj\Debug\net8.0-windows\MessageBoxForm.csproj.GenerateResource.cache
+D:\C# 3판\02_원고개발\04_완전원고\source\7장\MessageBoxForm\MessageBoxForm\obj\Debug\net8.0-windows\MessageBoxForm.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# 3판\02_원고개발\04_완전원고\source\7장\MessageBoxForm\MessageBoxForm\obj\Debug\net8.0-windows\MessageBoxForm.AssemblyInfoInputs.cache
+D:\C# 3판\02_원고개발\04_완전원고\source\7장\MessageBoxForm\MessageBoxForm\obj\Debug\net8.0-windows\MessageBoxForm.AssemblyInfo.cs
+D:\C# 3판\02_원고개발\04_완전원고\source\7장\MessageBoxForm\MessageBoxForm\obj\Debug\net8.0-windows\MessageBoxForm.csproj.CoreCompileInputs.cache
+D:\C# 3판\02_원고개발\04_완전원고\source\7장\MessageBoxForm\MessageBoxForm\obj\Debug\net8.0-windows\MessageBoxForm.dll
+D:\C# 3판\02_원고개발\04_완전원고\source\7장\MessageBoxForm\MessageBoxForm\obj\Debug\net8.0-windows\refint\MessageBoxForm.dll
+D:\C# 3판\02_원고개발\04_완전원고\source\7장\MessageBoxForm\MessageBoxForm\obj\Debug\net8.0-windows\MessageBoxForm.pdb
+D:\C# 3판\02_원고개발\04_완전원고\source\7장\MessageBoxForm\MessageBoxForm\obj\Debug\net8.0-windows\MessageBoxForm.genruntimeconfig.cache
+D:\C# 3판\02_원고개발\04_완전원고\source\7장\MessageBoxForm\MessageBoxForm\obj\Debug\net8.0-windows\ref\MessageBoxForm.dll

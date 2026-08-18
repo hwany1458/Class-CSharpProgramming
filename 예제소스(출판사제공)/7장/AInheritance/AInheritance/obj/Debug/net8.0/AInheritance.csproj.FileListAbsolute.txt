@@ -1,0 +1,14 @@
+D:\C# 3판\02_원고개발\04_완전원고\source\7장\AInheritance\AInheritance\bin\Debug\net8.0\AInheritance.exe
+D:\C# 3판\02_원고개발\04_완전원고\source\7장\AInheritance\AInheritance\bin\Debug\net8.0\AInheritance.deps.json
+D:\C# 3판\02_원고개발\04_완전원고\source\7장\AInheritance\AInheritance\bin\Debug\net8.0\AInheritance.runtimeconfig.json
+D:\C# 3판\02_원고개발\04_완전원고\source\7장\AInheritance\AInheritance\bin\Debug\net8.0\AInheritance.dll
+D:\C# 3판\02_원고개발\04_완전원고\source\7장\AInheritance\AInheritance\bin\Debug\net8.0\AInheritance.pdb
+D:\C# 3판\02_원고개발\04_완전원고\source\7장\AInheritance\AInheritance\obj\Debug\net8.0\AInheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# 3판\02_원고개발\04_완전원고\source\7장\AInheritance\AInheritance\obj\Debug\net8.0\AInheritance.AssemblyInfoInputs.cache
+D:\C# 3판\02_원고개발\04_완전원고\source\7장\AInheritance\AInheritance\obj\Debug\net8.0\AInheritance.AssemblyInfo.cs
+D:\C# 3판\02_원고개발\04_완전원고\source\7장\AInheritance\AInheritance\obj\Debug\net8.0\AInheritance.csproj.CoreCompileInputs.cache
+D:\C# 3판\02_원고개발\04_완전원고\source\7장\AInheritance\AInheritance\obj\Debug\net8.0\AInheritance.dll
+D:\C# 3판\02_원고개발\04_완전원고\source\7장\AInheritance\AInheritance\obj\Debug\net8.0\refint\AInheritance.dll
+D:\C# 3판\02_원고개발\04_완전원고\source\7장\AInheritance\AInheritance\obj\Debug\net8.0\AInheritance.pdb
+D:\C# 3판\02_원고개발\04_완전원고\source\7장\AInheritance\AInheritance\obj\Debug\net8.0\AInheritance.genruntimeconfig.cache
+D:\C# 3판\02_원고개발\04_완전원고\source\7장\AInheritance\AInheritance\obj\Debug\net8.0\ref\AInheritance.dll

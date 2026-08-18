@@ -1,0 +1,14 @@
+D:\C# 3판\02_원고개발\04_완전원고\source\5장\ModelClassWithList\ModelClassWithList\bin\Debug\net8.0\ModelClassWithList.exe
+D:\C# 3판\02_원고개발\04_완전원고\source\5장\ModelClassWithList\ModelClassWithList\bin\Debug\net8.0\ModelClassWithList.deps.json
+D:\C# 3판\02_원고개발\04_완전원고\source\5장\ModelClassWithList\ModelClassWithList\bin\Debug\net8.0\ModelClassWithList.runtimeconfig.json
+D:\C# 3판\02_원고개발\04_완전원고\source\5장\ModelClassWithList\ModelClassWithList\bin\Debug\net8.0\ModelClassWithList.dll
+D:\C# 3판\02_원고개발\04_완전원고\source\5장\ModelClassWithList\ModelClassWithList\bin\Debug\net8.0\ModelClassWithList.pdb
+D:\C# 3판\02_원고개발\04_완전원고\source\5장\ModelClassWithList\ModelClassWithList\obj\Debug\net8.0\ModelClassWithList.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# 3판\02_원고개발\04_완전원고\source\5장\ModelClassWithList\ModelClassWithList\obj\Debug\net8.0\ModelClassWithList.AssemblyInfoInputs.cache
+D:\C# 3판\02_원고개발\04_완전원고\source\5장\ModelClassWithList\ModelClassWithList\obj\Debug\net8.0\ModelClassWithList.AssemblyInfo.cs
+D:\C# 3판\02_원고개발\04_완전원고\source\5장\ModelClassWithList\ModelClassWithList\obj\Debug\net8.0\ModelClassWithList.csproj.CoreCompileInputs.cache
+D:\C# 3판\02_원고개발\04_완전원고\source\5장\ModelClassWithList\ModelClassWithList\obj\Debug\net8.0\ModelClassWithList.dll
+D:\C# 3판\02_원고개발\04_완전원고\source\5장\ModelClassWithList\ModelClassWithList\obj\Debug\net8.0\refint\ModelClassWithList.dll
+D:\C# 3판\02_원고개발\04_완전원고\source\5장\ModelClassWithList\ModelClassWithList\obj\Debug\net8.0\ModelClassWithList.pdb
+D:\C# 3판\02_원고개발\04_완전원고\source\5장\ModelClassWithList\ModelClassWithList\obj\Debug\net8.0\ModelClassWithList.genruntimeconfig.cache
+D:\C# 3판\02_원고개발\04_완전원고\source\5장\ModelClassWithList\ModelClassWithList\obj\Debug\net8.0\ref\ModelClassWithList.dll

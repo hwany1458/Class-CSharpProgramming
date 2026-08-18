@@ -1,0 +1,14 @@
+D:\C# 3판\02_원고개발\04_완전원고\source\6장\Memorize\Memorize\bin\Debug\net8.0\Memorize.exe
+D:\C# 3판\02_원고개발\04_완전원고\source\6장\Memorize\Memorize\bin\Debug\net8.0\Memorize.deps.json
+D:\C# 3판\02_원고개발\04_완전원고\source\6장\Memorize\Memorize\bin\Debug\net8.0\Memorize.runtimeconfig.json
+D:\C# 3판\02_원고개발\04_완전원고\source\6장\Memorize\Memorize\bin\Debug\net8.0\Memorize.dll
+D:\C# 3판\02_원고개발\04_완전원고\source\6장\Memorize\Memorize\bin\Debug\net8.0\Memorize.pdb
+D:\C# 3판\02_원고개발\04_완전원고\source\6장\Memorize\Memorize\obj\Debug\net8.0\Memorize.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# 3판\02_원고개발\04_완전원고\source\6장\Memorize\Memorize\obj\Debug\net8.0\Memorize.AssemblyInfoInputs.cache
+D:\C# 3판\02_원고개발\04_완전원고\source\6장\Memorize\Memorize\obj\Debug\net8.0\Memorize.AssemblyInfo.cs
+D:\C# 3판\02_원고개발\04_완전원고\source\6장\Memorize\Memorize\obj\Debug\net8.0\Memorize.csproj.CoreCompileInputs.cache
+D:\C# 3판\02_원고개발\04_완전원고\source\6장\Memorize\Memorize\obj\Debug\net8.0\Memorize.dll
+D:\C# 3판\02_원고개발\04_완전원고\source\6장\Memorize\Memorize\obj\Debug\net8.0\refint\Memorize.dll
+D:\C# 3판\02_원고개발\04_완전원고\source\6장\Memorize\Memorize\obj\Debug\net8.0\Memorize.pdb
+D:\C# 3판\02_원고개발\04_완전원고\source\6장\Memorize\Memorize\obj\Debug\net8.0\Memorize.genruntimeconfig.cache
+D:\C# 3판\02_원고개발\04_완전원고\source\6장\Memorize\Memorize\obj\Debug\net8.0\ref\Memorize.dll

@@ -1,0 +1,14 @@
+D:\C# 3판\02_원고개발\04_완전원고\source\8장\StructCopy\StructCopy\bin\Debug\net8.0\StructCopy.exe
+D:\C# 3판\02_원고개발\04_완전원고\source\8장\StructCopy\StructCopy\bin\Debug\net8.0\StructCopy.deps.json
+D:\C# 3판\02_원고개발\04_완전원고\source\8장\StructCopy\StructCopy\bin\Debug\net8.0\StructCopy.runtimeconfig.json
+D:\C# 3판\02_원고개발\04_완전원고\source\8장\StructCopy\StructCopy\bin\Debug\net8.0\StructCopy.dll
+D:\C# 3판\02_원고개발\04_완전원고\source\8장\StructCopy\StructCopy\bin\Debug\net8.0\StructCopy.pdb
+D:\C# 3판\02_원고개발\04_완전원고\source\8장\StructCopy\StructCopy\obj\Debug\net8.0\StructCopy.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# 3판\02_원고개발\04_완전원고\source\8장\StructCopy\StructCopy\obj\Debug\net8.0\StructCopy.AssemblyInfoInputs.cache
+D:\C# 3판\02_원고개발\04_완전원고\source\8장\StructCopy\StructCopy\obj\Debug\net8.0\StructCopy.AssemblyInfo.cs
+D:\C# 3판\02_원고개발\04_완전원고\source\8장\StructCopy\StructCopy\obj\Debug\net8.0\StructCopy.csproj.CoreCompileInputs.cache
+D:\C# 3판\02_원고개발\04_완전원고\source\8장\StructCopy\StructCopy\obj\Debug\net8.0\StructCopy.dll
+D:\C# 3판\02_원고개발\04_완전원고\source\8장\StructCopy\StructCopy\obj\Debug\net8.0\refint\StructCopy.dll
+D:\C# 3판\02_원고개발\04_완전원고\source\8장\StructCopy\StructCopy\obj\Debug\net8.0\StructCopy.pdb
+D:\C# 3판\02_원고개발\04_완전원고\source\8장\StructCopy\StructCopy\obj\Debug\net8.0\StructCopy.genruntimeconfig.cache
+D:\C# 3판\02_원고개발\04_완전원고\source\8장\StructCopy\StructCopy\obj\Debug\net8.0\ref\StructCopy.dll

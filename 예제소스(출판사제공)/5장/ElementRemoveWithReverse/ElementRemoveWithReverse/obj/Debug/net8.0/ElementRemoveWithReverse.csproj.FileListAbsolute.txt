@@ -1,0 +1,14 @@
+D:\C# 3판\02_원고개발\04_완전원고\source\5장\ElementRemoveWithReverse\ElementRemoveWithReverse\bin\Debug\net8.0\ElementRemoveWithReverse.exe
+D:\C# 3판\02_원고개발\04_완전원고\source\5장\ElementRemoveWithReverse\ElementRemoveWithReverse\bin\Debug\net8.0\ElementRemoveWithReverse.deps.json
+D:\C# 3판\02_원고개발\04_완전원고\source\5장\ElementRemoveWithReverse\ElementRemoveWithReverse\bin\Debug\net8.0\ElementRemoveWithReverse.runtimeconfig.json
+D:\C# 3판\02_원고개발\04_완전원고\source\5장\ElementRemoveWithReverse\ElementRemoveWithReverse\bin\Debug\net8.0\ElementRemoveWithReverse.dll
+D:\C# 3판\02_원고개발\04_완전원고\source\5장\ElementRemoveWithReverse\ElementRemoveWithReverse\bin\Debug\net8.0\ElementRemoveWithReverse.pdb
+D:\C# 3판\02_원고개발\04_완전원고\source\5장\ElementRemoveWithReverse\ElementRemoveWithReverse\obj\Debug\net8.0\ElementRemoveWithReverse.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# 3판\02_원고개발\04_완전원고\source\5장\ElementRemoveWithReverse\ElementRemoveWithReverse\obj\Debug\net8.0\ElementRemoveWithReverse.AssemblyInfoInputs.cache
+D:\C# 3판\02_원고개발\04_완전원고\source\5장\ElementRemoveWithReverse\ElementRemoveWithReverse\obj\Debug\net8.0\ElementRemoveWithReverse.AssemblyInfo.cs
+D:\C# 3판\02_원고개발\04_완전원고\source\5장\ElementRemoveWithReverse\ElementRemoveWithReverse\obj\Debug\net8.0\ElementRemoveWithReverse.csproj.CoreCompileInputs.cache
+D:\C# 3판\02_원고개발\04_완전원고\source\5장\ElementRemoveWithReverse\ElementRemoveWithReverse\obj\Debug\net8.0\ElementRemoveWithReverse.dll
+D:\C# 3판\02_원고개발\04_완전원고\source\5장\ElementRemoveWithReverse\ElementRemoveWithReverse\obj\Debug\net8.0\refint\ElementRemoveWithReverse.dll
+D:\C# 3판\02_원고개발\04_완전원고\source\5장\ElementRemoveWithReverse\ElementRemoveWithReverse\obj\Debug\net8.0\ElementRemoveWithReverse.pdb
+D:\C# 3판\02_원고개발\04_완전원고\source\5장\ElementRemoveWithReverse\ElementRemoveWithReverse\obj\Debug\net8.0\ElementRemoveWithReverse.genruntimeconfig.cache
+D:\C# 3판\02_원고개발\04_완전원고\source\5장\ElementRemoveWithReverse\ElementRemoveWithReverse\obj\Debug\net8.0\ref\ElementRemoveWithReverse.dll

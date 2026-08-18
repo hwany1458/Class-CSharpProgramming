@@ -1,0 +1,14 @@
+D:\C# 3판\02_원고개발\04_완전원고\source\7장\UsageOfNew\UsageOfNew\bin\Debug\net8.0\UsageOfNew.exe
+D:\C# 3판\02_원고개발\04_완전원고\source\7장\UsageOfNew\UsageOfNew\bin\Debug\net8.0\UsageOfNew.deps.json
+D:\C# 3판\02_원고개발\04_완전원고\source\7장\UsageOfNew\UsageOfNew\bin\Debug\net8.0\UsageOfNew.runtimeconfig.json
+D:\C# 3판\02_원고개발\04_완전원고\source\7장\UsageOfNew\UsageOfNew\bin\Debug\net8.0\UsageOfNew.dll
+D:\C# 3판\02_원고개발\04_완전원고\source\7장\UsageOfNew\UsageOfNew\bin\Debug\net8.0\UsageOfNew.pdb
+D:\C# 3판\02_원고개발\04_완전원고\source\7장\UsageOfNew\UsageOfNew\obj\Debug\net8.0\UsageOfNew.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# 3판\02_원고개발\04_완전원고\source\7장\UsageOfNew\UsageOfNew\obj\Debug\net8.0\UsageOfNew.AssemblyInfoInputs.cache
+D:\C# 3판\02_원고개발\04_완전원고\source\7장\UsageOfNew\UsageOfNew\obj\Debug\net8.0\UsageOfNew.AssemblyInfo.cs
+D:\C# 3판\02_원고개발\04_완전원고\source\7장\UsageOfNew\UsageOfNew\obj\Debug\net8.0\UsageOfNew.csproj.CoreCompileInputs.cache
+D:\C# 3판\02_원고개발\04_완전원고\source\7장\UsageOfNew\UsageOfNew\obj\Debug\net8.0\UsageOfNew.dll
+D:\C# 3판\02_원고개발\04_완전원고\source\7장\UsageOfNew\UsageOfNew\obj\Debug\net8.0\refint\UsageOfNew.dll
+D:\C# 3판\02_원고개발\04_완전원고\source\7장\UsageOfNew\UsageOfNew\obj\Debug\net8.0\UsageOfNew.pdb
+D:\C# 3판\02_원고개발\04_완전원고\source\7장\UsageOfNew\UsageOfNew\obj\Debug\net8.0\UsageOfNew.genruntimeconfig.cache
+D:\C# 3판\02_원고개발\04_완전원고\source\7장\UsageOfNew\UsageOfNew\obj\Debug\net8.0\ref\UsageOfNew.dll

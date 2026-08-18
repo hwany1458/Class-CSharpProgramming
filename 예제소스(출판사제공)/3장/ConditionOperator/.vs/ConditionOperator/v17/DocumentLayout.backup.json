@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C# 3\uD310\\02_\uC6D0\uACE0\uAC1C\uBC1C\\04_\uC644\uC804\uC6D0\uACE0\\source\\1\uC7A5\\ConditionOperator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45BC1804-B9E4-4054-A333-3D8BADB493F5}|ConditionOperator\\ConditionOperator.csproj|d:\\c# 3\uD310\\02_\uC6D0\uACE0\uAC1C\uBC1C\\04_\uC644\uC804\uC6D0\uACE0\\source\\1\uC7A5\\conditionoperator\\conditionoperator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45BC1804-B9E4-4054-A333-3D8BADB493F5}|ConditionOperator\\ConditionOperator.csproj|solutionrelative:conditionoperator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C# 3\uD310\\02_\uC6D0\uACE0\uAC1C\uBC1C\\04_\uC644\uC804\uC6D0\uACE0\\source\\1\uC7A5\\ConditionOperator\\ConditionOperator\\Program.cs",
+              "RelativeDocumentMoniker": "ConditionOperator\\Program.cs",
+              "ToolTip": "D:\\C# 3\uD310\\02_\uC6D0\uACE0\uAC1C\uBC1C\\04_\uC644\uC804\uC6D0\uACE0\\source\\1\uC7A5\\ConditionOperator\\ConditionOperator\\Program.cs",
+              "RelativeToolTip": "ConditionOperator\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T09:08:46.705Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

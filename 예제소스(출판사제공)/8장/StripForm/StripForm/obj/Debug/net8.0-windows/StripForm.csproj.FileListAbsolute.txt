@@ -1,0 +1,16 @@
+D:\C# 3판\02_원고개발\04_완전원고\source\8장\StripForm\StripForm\bin\Debug\net8.0-windows\StripForm.exe
+D:\C# 3판\02_원고개발\04_완전원고\source\8장\StripForm\StripForm\bin\Debug\net8.0-windows\StripForm.deps.json
+D:\C# 3판\02_원고개발\04_완전원고\source\8장\StripForm\StripForm\bin\Debug\net8.0-windows\StripForm.runtimeconfig.json
+D:\C# 3판\02_원고개발\04_완전원고\source\8장\StripForm\StripForm\bin\Debug\net8.0-windows\StripForm.dll
+D:\C# 3판\02_원고개발\04_완전원고\source\8장\StripForm\StripForm\bin\Debug\net8.0-windows\StripForm.pdb
+D:\C# 3판\02_원고개발\04_완전원고\source\8장\StripForm\StripForm\obj\Debug\net8.0-windows\StripForm.Form1.resources
+D:\C# 3판\02_원고개발\04_완전원고\source\8장\StripForm\StripForm\obj\Debug\net8.0-windows\StripForm.csproj.GenerateResource.cache
+D:\C# 3판\02_원고개발\04_완전원고\source\8장\StripForm\StripForm\obj\Debug\net8.0-windows\StripForm.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# 3판\02_원고개발\04_완전원고\source\8장\StripForm\StripForm\obj\Debug\net8.0-windows\StripForm.AssemblyInfoInputs.cache
+D:\C# 3판\02_원고개발\04_완전원고\source\8장\StripForm\StripForm\obj\Debug\net8.0-windows\StripForm.AssemblyInfo.cs
+D:\C# 3판\02_원고개발\04_완전원고\source\8장\StripForm\StripForm\obj\Debug\net8.0-windows\StripForm.csproj.CoreCompileInputs.cache
+D:\C# 3판\02_원고개발\04_완전원고\source\8장\StripForm\StripForm\obj\Debug\net8.0-windows\StripForm.dll
+D:\C# 3판\02_원고개발\04_완전원고\source\8장\StripForm\StripForm\obj\Debug\net8.0-windows\refint\StripForm.dll
+D:\C# 3판\02_원고개발\04_완전원고\source\8장\StripForm\StripForm\obj\Debug\net8.0-windows\StripForm.pdb
+D:\C# 3판\02_원고개발\04_완전원고\source\8장\StripForm\StripForm\obj\Debug\net8.0-windows\StripForm.genruntimeconfig.cache
+D:\C# 3판\02_원고개발\04_완전원고\source\8장\StripForm\StripForm\obj\Debug\net8.0-windows\ref\StripForm.dll

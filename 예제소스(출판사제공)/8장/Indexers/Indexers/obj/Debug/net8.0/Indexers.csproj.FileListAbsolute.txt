@@ -1,0 +1,14 @@
+D:\C# 3판\02_원고개발\04_완전원고\source\8장\Indexers\Indexers\bin\Debug\net8.0\Indexers.exe
+D:\C# 3판\02_원고개발\04_완전원고\source\8장\Indexers\Indexers\bin\Debug\net8.0\Indexers.deps.json
+D:\C# 3판\02_원고개발\04_완전원고\source\8장\Indexers\Indexers\bin\Debug\net8.0\Indexers.runtimeconfig.json
+D:\C# 3판\02_원고개발\04_완전원고\source\8장\Indexers\Indexers\bin\Debug\net8.0\Indexers.dll
+D:\C# 3판\02_원고개발\04_완전원고\source\8장\Indexers\Indexers\bin\Debug\net8.0\Indexers.pdb
+D:\C# 3판\02_원고개발\04_완전원고\source\8장\Indexers\Indexers\obj\Debug\net8.0\Indexers.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# 3판\02_원고개발\04_완전원고\source\8장\Indexers\Indexers\obj\Debug\net8.0\Indexers.AssemblyInfoInputs.cache
+D:\C# 3판\02_원고개발\04_완전원고\source\8장\Indexers\Indexers\obj\Debug\net8.0\Indexers.AssemblyInfo.cs
+D:\C# 3판\02_원고개발\04_완전원고\source\8장\Indexers\Indexers\obj\Debug\net8.0\Indexers.csproj.CoreCompileInputs.cache
+D:\C# 3판\02_원고개발\04_완전원고\source\8장\Indexers\Indexers\obj\Debug\net8.0\Indexers.dll
+D:\C# 3판\02_원고개발\04_완전원고\source\8장\Indexers\Indexers\obj\Debug\net8.0\refint\Indexers.dll
+D:\C# 3판\02_원고개발\04_완전원고\source\8장\Indexers\Indexers\obj\Debug\net8.0\Indexers.pdb
+D:\C# 3판\02_원고개발\04_완전원고\source\8장\Indexers\Indexers\obj\Debug\net8.0\Indexers.genruntimeconfig.cache
+D:\C# 3판\02_원고개발\04_완전원고\source\8장\Indexers\Indexers\obj\Debug\net8.0\ref\Indexers.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumMethod", "SumMethod\SumMethod.csproj", "{06AB1259-4006-4EEF-AF03-C9B54FE1BCCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06AB1259-4006-4EEF-AF03-C9B54FE1BCCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06AB1259-4006-4EEF-AF03-C9B54FE1BCCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06AB1259-4006-4EEF-AF03-C9B54FE1BCCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06AB1259-4006-4EEF-AF03-C9B54FE1BCCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6B67199-41E7-4F03-AE81-117E88B1C530}
+	EndGlobalSection
+EndGlobal

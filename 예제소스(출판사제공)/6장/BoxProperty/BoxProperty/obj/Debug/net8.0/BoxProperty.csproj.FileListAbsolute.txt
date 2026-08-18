@@ -1,0 +1,14 @@
+D:\C# 3판\02_원고개발\04_완전원고\source\6장\BoxProperty\BoxProperty\bin\Debug\net8.0\BoxProperty.exe
+D:\C# 3판\02_원고개발\04_완전원고\source\6장\BoxProperty\BoxProperty\bin\Debug\net8.0\BoxProperty.deps.json
+D:\C# 3판\02_원고개발\04_완전원고\source\6장\BoxProperty\BoxProperty\bin\Debug\net8.0\BoxProperty.runtimeconfig.json
+D:\C# 3판\02_원고개발\04_완전원고\source\6장\BoxProperty\BoxProperty\bin\Debug\net8.0\BoxProperty.dll
+D:\C# 3판\02_원고개발\04_완전원고\source\6장\BoxProperty\BoxProperty\bin\Debug\net8.0\BoxProperty.pdb
+D:\C# 3판\02_원고개발\04_완전원고\source\6장\BoxProperty\BoxProperty\obj\Debug\net8.0\BoxProperty.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# 3판\02_원고개발\04_완전원고\source\6장\BoxProperty\BoxProperty\obj\Debug\net8.0\BoxProperty.AssemblyInfoInputs.cache
+D:\C# 3판\02_원고개발\04_완전원고\source\6장\BoxProperty\BoxProperty\obj\Debug\net8.0\BoxProperty.AssemblyInfo.cs
+D:\C# 3판\02_원고개발\04_완전원고\source\6장\BoxProperty\BoxProperty\obj\Debug\net8.0\BoxProperty.csproj.CoreCompileInputs.cache
+D:\C# 3판\02_원고개발\04_완전원고\source\6장\BoxProperty\BoxProperty\obj\Debug\net8.0\BoxProperty.dll
+D:\C# 3판\02_원고개발\04_완전원고\source\6장\BoxProperty\BoxProperty\obj\Debug\net8.0\refint\BoxProperty.dll
+D:\C# 3판\02_원고개발\04_완전원고\source\6장\BoxProperty\BoxProperty\obj\Debug\net8.0\BoxProperty.pdb
+D:\C# 3판\02_원고개발\04_완전원고\source\6장\BoxProperty\BoxProperty\obj\Debug\net8.0\BoxProperty.genruntimeconfig.cache
+D:\C# 3판\02_원고개발\04_완전원고\source\6장\BoxProperty\BoxProperty\obj\Debug\net8.0\ref\BoxProperty.dll

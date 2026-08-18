@@ -1,0 +1,4 @@
+D:\C# 3판\02_원고개발\04_완전원고\source\1장\FirstProgram\FirstProgram\obj\Debug\net8.0\FirstProgram.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# 3판\02_원고개발\04_완전원고\source\1장\FirstProgram\FirstProgram\obj\Debug\net8.0\FirstProgram.AssemblyInfoInputs.cache
+D:\C# 3판\02_원고개발\04_완전원고\source\1장\FirstProgram\FirstProgram\obj\Debug\net8.0\FirstProgram.AssemblyInfo.cs
+D:\C# 3판\02_원고개발\04_완전원고\source\1장\FirstProgram\FirstProgram\obj\Debug\net8.0\FirstProgram.csproj.CoreCompileInputs.cache

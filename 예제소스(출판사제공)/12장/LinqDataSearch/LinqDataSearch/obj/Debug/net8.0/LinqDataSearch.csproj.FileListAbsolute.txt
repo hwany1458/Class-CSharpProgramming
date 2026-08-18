@@ -1,0 +1,14 @@
+D:\C# 3판\02_원고개발\04_완전원고\source\12장\LinqDataSearch\LinqDataSearch\obj\Debug\net8.0\LinqDataSearch.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# 3판\02_원고개발\04_완전원고\source\12장\LinqDataSearch\LinqDataSearch\obj\Debug\net8.0\LinqDataSearch.AssemblyInfoInputs.cache
+D:\C# 3판\02_원고개발\04_완전원고\source\12장\LinqDataSearch\LinqDataSearch\obj\Debug\net8.0\LinqDataSearch.AssemblyInfo.cs
+D:\C# 3판\02_원고개발\04_완전원고\source\12장\LinqDataSearch\LinqDataSearch\obj\Debug\net8.0\LinqDataSearch.csproj.CoreCompileInputs.cache
+D:\C# 3판\02_원고개발\04_완전원고\source\12장\LinqDataSearch\LinqDataSearch\bin\Debug\net8.0\LinqDataSearch.exe
+D:\C# 3판\02_원고개발\04_완전원고\source\12장\LinqDataSearch\LinqDataSearch\bin\Debug\net8.0\LinqDataSearch.deps.json
+D:\C# 3판\02_원고개발\04_완전원고\source\12장\LinqDataSearch\LinqDataSearch\bin\Debug\net8.0\LinqDataSearch.runtimeconfig.json
+D:\C# 3판\02_원고개발\04_완전원고\source\12장\LinqDataSearch\LinqDataSearch\bin\Debug\net8.0\LinqDataSearch.dll
+D:\C# 3판\02_원고개발\04_완전원고\source\12장\LinqDataSearch\LinqDataSearch\bin\Debug\net8.0\LinqDataSearch.pdb
+D:\C# 3판\02_원고개발\04_완전원고\source\12장\LinqDataSearch\LinqDataSearch\obj\Debug\net8.0\LinqDataSearch.dll
+D:\C# 3판\02_원고개발\04_완전원고\source\12장\LinqDataSearch\LinqDataSearch\obj\Debug\net8.0\refint\LinqDataSearch.dll
+D:\C# 3판\02_원고개발\04_완전원고\source\12장\LinqDataSearch\LinqDataSearch\obj\Debug\net8.0\LinqDataSearch.pdb
+D:\C# 3판\02_원고개발\04_완전원고\source\12장\LinqDataSearch\LinqDataSearch\obj\Debug\net8.0\LinqDataSearch.genruntimeconfig.cache
+D:\C# 3판\02_원고개발\04_완전원고\source\12장\LinqDataSearch\LinqDataSearch\obj\Debug\net8.0\ref\LinqDataSearch.dll

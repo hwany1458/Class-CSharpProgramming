@@ -1,0 +1,14 @@
+D:\C# 3판\02_원고개발\04_완전원고\source\11장\ThreadBasic\ThreadBasic\bin\Debug\net8.0\ThreadBasic.exe
+D:\C# 3판\02_원고개발\04_완전원고\source\11장\ThreadBasic\ThreadBasic\bin\Debug\net8.0\ThreadBasic.deps.json
+D:\C# 3판\02_원고개발\04_완전원고\source\11장\ThreadBasic\ThreadBasic\bin\Debug\net8.0\ThreadBasic.runtimeconfig.json
+D:\C# 3판\02_원고개발\04_완전원고\source\11장\ThreadBasic\ThreadBasic\bin\Debug\net8.0\ThreadBasic.dll
+D:\C# 3판\02_원고개발\04_완전원고\source\11장\ThreadBasic\ThreadBasic\bin\Debug\net8.0\ThreadBasic.pdb
+D:\C# 3판\02_원고개발\04_완전원고\source\11장\ThreadBasic\ThreadBasic\obj\Debug\net8.0\ThreadBasic.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# 3판\02_원고개발\04_완전원고\source\11장\ThreadBasic\ThreadBasic\obj\Debug\net8.0\ThreadBasic.AssemblyInfoInputs.cache
+D:\C# 3판\02_원고개발\04_완전원고\source\11장\ThreadBasic\ThreadBasic\obj\Debug\net8.0\ThreadBasic.AssemblyInfo.cs
+D:\C# 3판\02_원고개발\04_완전원고\source\11장\ThreadBasic\ThreadBasic\obj\Debug\net8.0\ThreadBasic.csproj.CoreCompileInputs.cache
+D:\C# 3판\02_원고개발\04_완전원고\source\11장\ThreadBasic\ThreadBasic\obj\Debug\net8.0\ThreadBasic.dll
+D:\C# 3판\02_원고개발\04_완전원고\source\11장\ThreadBasic\ThreadBasic\obj\Debug\net8.0\refint\ThreadBasic.dll
+D:\C# 3판\02_원고개발\04_완전원고\source\11장\ThreadBasic\ThreadBasic\obj\Debug\net8.0\ThreadBasic.pdb
+D:\C# 3판\02_원고개발\04_완전원고\source\11장\ThreadBasic\ThreadBasic\obj\Debug\net8.0\ThreadBasic.genruntimeconfig.cache
+D:\C# 3판\02_원고개발\04_완전원고\source\11장\ThreadBasic\ThreadBasic\obj\Debug\net8.0\ref\ThreadBasic.dll

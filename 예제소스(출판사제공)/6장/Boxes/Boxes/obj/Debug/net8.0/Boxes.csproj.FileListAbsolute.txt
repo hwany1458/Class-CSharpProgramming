@@ -1,0 +1,14 @@
+D:\C# 3판\02_원고개발\04_완전원고\source\6장\Boxes\Boxes\bin\Debug\net8.0\Boxes.exe
+D:\C# 3판\02_원고개발\04_완전원고\source\6장\Boxes\Boxes\bin\Debug\net8.0\Boxes.deps.json
+D:\C# 3판\02_원고개발\04_완전원고\source\6장\Boxes\Boxes\bin\Debug\net8.0\Boxes.runtimeconfig.json
+D:\C# 3판\02_원고개발\04_완전원고\source\6장\Boxes\Boxes\bin\Debug\net8.0\Boxes.dll
+D:\C# 3판\02_원고개발\04_완전원고\source\6장\Boxes\Boxes\bin\Debug\net8.0\Boxes.pdb
+D:\C# 3판\02_원고개발\04_완전원고\source\6장\Boxes\Boxes\obj\Debug\net8.0\Boxes.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# 3판\02_원고개발\04_완전원고\source\6장\Boxes\Boxes\obj\Debug\net8.0\Boxes.AssemblyInfoInputs.cache
+D:\C# 3판\02_원고개발\04_완전원고\source\6장\Boxes\Boxes\obj\Debug\net8.0\Boxes.AssemblyInfo.cs
+D:\C# 3판\02_원고개발\04_완전원고\source\6장\Boxes\Boxes\obj\Debug\net8.0\Boxes.csproj.CoreCompileInputs.cache
+D:\C# 3판\02_원고개발\04_완전원고\source\6장\Boxes\Boxes\obj\Debug\net8.0\Boxes.dll
+D:\C# 3판\02_원고개발\04_완전원고\source\6장\Boxes\Boxes\obj\Debug\net8.0\refint\Boxes.dll
+D:\C# 3판\02_원고개발\04_완전원고\source\6장\Boxes\Boxes\obj\Debug\net8.0\Boxes.pdb
+D:\C# 3판\02_원고개발\04_완전원고\source\6장\Boxes\Boxes\obj\Debug\net8.0\Boxes.genruntimeconfig.cache
+D:\C# 3판\02_원고개발\04_완전원고\source\6장\Boxes\Boxes\obj\Debug\net8.0\ref\Boxes.dll

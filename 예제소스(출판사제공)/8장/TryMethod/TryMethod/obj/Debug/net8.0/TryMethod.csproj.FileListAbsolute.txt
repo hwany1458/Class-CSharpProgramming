@@ -1,0 +1,14 @@
+D:\C# 3판\02_원고개발\04_완전원고\source\8장\TryMethod\TryMethod\bin\Debug\net8.0\TryMethod.exe
+D:\C# 3판\02_원고개발\04_완전원고\source\8장\TryMethod\TryMethod\bin\Debug\net8.0\TryMethod.deps.json
+D:\C# 3판\02_원고개발\04_완전원고\source\8장\TryMethod\TryMethod\bin\Debug\net8.0\TryMethod.runtimeconfig.json
+D:\C# 3판\02_원고개발\04_완전원고\source\8장\TryMethod\TryMethod\bin\Debug\net8.0\TryMethod.dll
+D:\C# 3판\02_원고개발\04_완전원고\source\8장\TryMethod\TryMethod\bin\Debug\net8.0\TryMethod.pdb
+D:\C# 3판\02_원고개발\04_완전원고\source\8장\TryMethod\TryMethod\obj\Debug\net8.0\TryMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# 3판\02_원고개발\04_완전원고\source\8장\TryMethod\TryMethod\obj\Debug\net8.0\TryMethod.AssemblyInfoInputs.cache
+D:\C# 3판\02_원고개발\04_완전원고\source\8장\TryMethod\TryMethod\obj\Debug\net8.0\TryMethod.AssemblyInfo.cs
+D:\C# 3판\02_원고개발\04_완전원고\source\8장\TryMethod\TryMethod\obj\Debug\net8.0\TryMethod.csproj.CoreCompileInputs.cache
+D:\C# 3판\02_원고개발\04_완전원고\source\8장\TryMethod\TryMethod\obj\Debug\net8.0\TryMethod.dll
+D:\C# 3판\02_원고개발\04_완전원고\source\8장\TryMethod\TryMethod\obj\Debug\net8.0\refint\TryMethod.dll
+D:\C# 3판\02_원고개발\04_완전원고\source\8장\TryMethod\TryMethod\obj\Debug\net8.0\TryMethod.pdb
+D:\C# 3판\02_원고개발\04_완전원고\source\8장\TryMethod\TryMethod\obj\Debug\net8.0\TryMethod.genruntimeconfig.cache
+D:\C# 3판\02_원고개발\04_완전원고\source\8장\TryMethod\TryMethod\obj\Debug\net8.0\ref\TryMethod.dll

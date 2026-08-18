@@ -1,0 +1,14 @@
+D:\C# 3판\02_원고개발\04_완전원고\source\10장\Exceptions\Exceptions\bin\Debug\net8.0\Exceptions.exe
+D:\C# 3판\02_원고개발\04_완전원고\source\10장\Exceptions\Exceptions\bin\Debug\net8.0\Exceptions.deps.json
+D:\C# 3판\02_원고개발\04_완전원고\source\10장\Exceptions\Exceptions\bin\Debug\net8.0\Exceptions.runtimeconfig.json
+D:\C# 3판\02_원고개발\04_완전원고\source\10장\Exceptions\Exceptions\bin\Debug\net8.0\Exceptions.dll
+D:\C# 3판\02_원고개발\04_완전원고\source\10장\Exceptions\Exceptions\bin\Debug\net8.0\Exceptions.pdb
+D:\C# 3판\02_원고개발\04_완전원고\source\10장\Exceptions\Exceptions\obj\Debug\net8.0\Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# 3판\02_원고개발\04_완전원고\source\10장\Exceptions\Exceptions\obj\Debug\net8.0\Exceptions.AssemblyInfoInputs.cache
+D:\C# 3판\02_원고개발\04_완전원고\source\10장\Exceptions\Exceptions\obj\Debug\net8.0\Exceptions.AssemblyInfo.cs
+D:\C# 3판\02_원고개발\04_완전원고\source\10장\Exceptions\Exceptions\obj\Debug\net8.0\Exceptions.csproj.CoreCompileInputs.cache
+D:\C# 3판\02_원고개발\04_완전원고\source\10장\Exceptions\Exceptions\obj\Debug\net8.0\Exceptions.dll
+D:\C# 3판\02_원고개발\04_완전원고\source\10장\Exceptions\Exceptions\obj\Debug\net8.0\refint\Exceptions.dll
+D:\C# 3판\02_원고개발\04_완전원고\source\10장\Exceptions\Exceptions\obj\Debug\net8.0\Exceptions.pdb
+D:\C# 3판\02_원고개발\04_완전원고\source\10장\Exceptions\Exceptions\obj\Debug\net8.0\Exceptions.genruntimeconfig.cache
+D:\C# 3판\02_원고개발\04_완전원고\source\10장\Exceptions\Exceptions\obj\Debug\net8.0\ref\Exceptions.dll

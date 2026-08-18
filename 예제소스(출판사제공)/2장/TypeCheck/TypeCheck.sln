@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34902.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypeCheck", "TypeCheck\TypeCheck.csproj", "{F8BB867A-5473-4BCC-AF49-25BE194471B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8BB867A-5473-4BCC-AF49-25BE194471B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8BB867A-5473-4BCC-AF49-25BE194471B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8BB867A-5473-4BCC-AF49-25BE194471B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8BB867A-5473-4BCC-AF49-25BE194471B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79E7383C-77D8-48B9-B4BC-B5770EE15D86}
+	EndGlobalSection
+EndGlobal

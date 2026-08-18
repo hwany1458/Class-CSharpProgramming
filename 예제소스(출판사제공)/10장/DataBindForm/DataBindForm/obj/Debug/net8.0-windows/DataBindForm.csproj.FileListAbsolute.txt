@@ -1,0 +1,16 @@
+D:\C# 3판\02_원고개발\04_완전원고\source\10장\DataBindForm\DataBindForm\bin\Debug\net8.0-windows\DataBindForm.exe
+D:\C# 3판\02_원고개발\04_완전원고\source\10장\DataBindForm\DataBindForm\bin\Debug\net8.0-windows\DataBindForm.deps.json
+D:\C# 3판\02_원고개발\04_완전원고\source\10장\DataBindForm\DataBindForm\bin\Debug\net8.0-windows\DataBindForm.runtimeconfig.json
+D:\C# 3판\02_원고개발\04_완전원고\source\10장\DataBindForm\DataBindForm\bin\Debug\net8.0-windows\DataBindForm.dll
+D:\C# 3판\02_원고개발\04_완전원고\source\10장\DataBindForm\DataBindForm\bin\Debug\net8.0-windows\DataBindForm.pdb
+D:\C# 3판\02_원고개발\04_완전원고\source\10장\DataBindForm\DataBindForm\obj\Debug\net8.0-windows\DataBindForm.Form1.resources
+D:\C# 3판\02_원고개발\04_완전원고\source\10장\DataBindForm\DataBindForm\obj\Debug\net8.0-windows\DataBindForm.csproj.GenerateResource.cache
+D:\C# 3판\02_원고개발\04_완전원고\source\10장\DataBindForm\DataBindForm\obj\Debug\net8.0-windows\DataBindForm.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# 3판\02_원고개발\04_완전원고\source\10장\DataBindForm\DataBindForm\obj\Debug\net8.0-windows\DataBindForm.AssemblyInfoInputs.cache
+D:\C# 3판\02_원고개발\04_완전원고\source\10장\DataBindForm\DataBindForm\obj\Debug\net8.0-windows\DataBindForm.AssemblyInfo.cs
+D:\C# 3판\02_원고개발\04_완전원고\source\10장\DataBindForm\DataBindForm\obj\Debug\net8.0-windows\DataBindForm.csproj.CoreCompileInputs.cache
+D:\C# 3판\02_원고개발\04_완전원고\source\10장\DataBindForm\DataBindForm\obj\Debug\net8.0-windows\DataBindForm.dll
+D:\C# 3판\02_원고개발\04_완전원고\source\10장\DataBindForm\DataBindForm\obj\Debug\net8.0-windows\refint\DataBindForm.dll
+D:\C# 3판\02_원고개발\04_완전원고\source\10장\DataBindForm\DataBindForm\obj\Debug\net8.0-windows\DataBindForm.pdb
+D:\C# 3판\02_원고개발\04_완전원고\source\10장\DataBindForm\DataBindForm\obj\Debug\net8.0-windows\DataBindForm.genruntimeconfig.cache
+D:\C# 3판\02_원고개발\04_완전원고\source\10장\DataBindForm\DataBindForm\obj\Debug\net8.0-windows\ref\DataBindForm.dll

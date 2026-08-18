@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C# 3\uD310\\02_\uC6D0\uACE0\uAC1C\uBC1C\\04_\uC644\uC804\uC6D0\uACE0\\source\\1\uC7A5\\ConditionWithKeyInput\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FF9C386-70BF-4A5F-9764-9159BC3A3B6D}|ConditionWithKeyInput\\ConditionWithKeyInput.csproj|d:\\c# 3\uD310\\02_\uC6D0\uACE0\uAC1C\uBC1C\\04_\uC644\uC804\uC6D0\uACE0\\source\\1\uC7A5\\conditionwithkeyinput\\conditionwithkeyinput\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FF9C386-70BF-4A5F-9764-9159BC3A3B6D}|ConditionWithKeyInput\\ConditionWithKeyInput.csproj|solutionrelative:conditionwithkeyinput\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C# 3\uD310\\02_\uC6D0\uACE0\uAC1C\uBC1C\\04_\uC644\uC804\uC6D0\uACE0\\source\\1\uC7A5\\ConditionWithKeyInput\\ConditionWithKeyInput\\Program.cs",
+              "RelativeDocumentMoniker": "ConditionWithKeyInput\\Program.cs",
+              "ToolTip": "D:\\C# 3\uD310\\02_\uC6D0\uACE0\uAC1C\uBC1C\\04_\uC644\uC804\uC6D0\uACE0\\source\\1\uC7A5\\ConditionWithKeyInput\\ConditionWithKeyInput\\Program.cs",
+              "RelativeToolTip": "ConditionWithKeyInput\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAABAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T09:10:33.942Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

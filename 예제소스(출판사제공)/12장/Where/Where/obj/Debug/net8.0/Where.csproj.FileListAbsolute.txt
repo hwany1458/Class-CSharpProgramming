@@ -1,0 +1,14 @@
+D:\C# 3판\02_원고개발\04_완전원고\source\12장\Where\Where\bin\Debug\net8.0\Where.exe
+D:\C# 3판\02_원고개발\04_완전원고\source\12장\Where\Where\bin\Debug\net8.0\Where.deps.json
+D:\C# 3판\02_원고개발\04_완전원고\source\12장\Where\Where\bin\Debug\net8.0\Where.runtimeconfig.json
+D:\C# 3판\02_원고개발\04_완전원고\source\12장\Where\Where\bin\Debug\net8.0\Where.dll
+D:\C# 3판\02_원고개발\04_완전원고\source\12장\Where\Where\bin\Debug\net8.0\Where.pdb
+D:\C# 3판\02_원고개발\04_완전원고\source\12장\Where\Where\obj\Debug\net8.0\Where.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# 3판\02_원고개발\04_완전원고\source\12장\Where\Where\obj\Debug\net8.0\Where.AssemblyInfoInputs.cache
+D:\C# 3판\02_원고개발\04_완전원고\source\12장\Where\Where\obj\Debug\net8.0\Where.AssemblyInfo.cs
+D:\C# 3판\02_원고개발\04_완전원고\source\12장\Where\Where\obj\Debug\net8.0\Where.csproj.CoreCompileInputs.cache
+D:\C# 3판\02_원고개발\04_완전원고\source\12장\Where\Where\obj\Debug\net8.0\Where.dll
+D:\C# 3판\02_원고개발\04_완전원고\source\12장\Where\Where\obj\Debug\net8.0\refint\Where.dll
+D:\C# 3판\02_원고개발\04_완전원고\source\12장\Where\Where\obj\Debug\net8.0\Where.pdb
+D:\C# 3판\02_원고개발\04_완전원고\source\12장\Where\Where\obj\Debug\net8.0\Where.genruntimeconfig.cache
+D:\C# 3판\02_원고개발\04_완전원고\source\12장\Where\Where\obj\Debug\net8.0\ref\Where.dll

@@ -1,0 +1,14 @@
+D:\C# 3판\02_원고개발\04_완전원고\source\3장\IfElseTime\IfElseTime\bin\Debug\net8.0\IfElseTime.exe
+D:\C# 3판\02_원고개발\04_완전원고\source\3장\IfElseTime\IfElseTime\bin\Debug\net8.0\IfElseTime.deps.json
+D:\C# 3판\02_원고개발\04_완전원고\source\3장\IfElseTime\IfElseTime\bin\Debug\net8.0\IfElseTime.runtimeconfig.json
+D:\C# 3판\02_원고개발\04_완전원고\source\3장\IfElseTime\IfElseTime\bin\Debug\net8.0\IfElseTime.dll
+D:\C# 3판\02_원고개발\04_완전원고\source\3장\IfElseTime\IfElseTime\bin\Debug\net8.0\IfElseTime.pdb
+D:\C# 3판\02_원고개발\04_완전원고\source\3장\IfElseTime\IfElseTime\obj\Debug\net8.0\IfElseTime.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# 3판\02_원고개발\04_완전원고\source\3장\IfElseTime\IfElseTime\obj\Debug\net8.0\IfElseTime.AssemblyInfoInputs.cache
+D:\C# 3판\02_원고개발\04_완전원고\source\3장\IfElseTime\IfElseTime\obj\Debug\net8.0\IfElseTime.AssemblyInfo.cs
+D:\C# 3판\02_원고개발\04_완전원고\source\3장\IfElseTime\IfElseTime\obj\Debug\net8.0\IfElseTime.csproj.CoreCompileInputs.cache
+D:\C# 3판\02_원고개발\04_완전원고\source\3장\IfElseTime\IfElseTime\obj\Debug\net8.0\IfElseTime.dll
+D:\C# 3판\02_원고개발\04_완전원고\source\3장\IfElseTime\IfElseTime\obj\Debug\net8.0\refint\IfElseTime.dll
+D:\C# 3판\02_원고개발\04_완전원고\source\3장\IfElseTime\IfElseTime\obj\Debug\net8.0\IfElseTime.pdb
+D:\C# 3판\02_원고개발\04_완전원고\source\3장\IfElseTime\IfElseTime\obj\Debug\net8.0\IfElseTime.genruntimeconfig.cache
+D:\C# 3판\02_원고개발\04_완전원고\source\3장\IfElseTime\IfElseTime\obj\Debug\net8.0\ref\IfElseTime.dll
