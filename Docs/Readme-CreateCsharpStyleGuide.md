@@ -1,5 +1,7 @@
 # Create a C# style guide: Write cleaner code that scales
 
+(2023년 10월 20일)
+
 Is there only one correct way to format Unity C# code? Probably not, but agreeing on a consistent code style for a project enables your team to develop a clean, readable, and scalable codebase.
 
 This e-book compiles advice from industry experts on how to create a code style guide. Establishing a guide for each member of your team to follow will help ensure your codebase can grow your project to a commercial-scale production.
