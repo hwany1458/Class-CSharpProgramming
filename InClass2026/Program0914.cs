@@ -20,7 +20,8 @@ namespace ConsoleApp1
             // C와 마찬가지로, 명령이 끝나면 세미콜론(;)을 붙어야 함.
             // 대소문자를 구분함
             Console.WriteLine("Hello, world.");
-
+            Console.Write("Hello, YongHwan");
+            
             // Console.WriteLine() = printf("\n") -- 기본적으로 한줄 넘어감
             // Console.Write() = printf("")
             // Console.Write() -- "\n"을 넣으면 그위치에서 한줄 넘어감
